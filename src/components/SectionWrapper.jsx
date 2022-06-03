@@ -1,7 +1,7 @@
 import React from 'react';
 
 import styles from '../styles/Global';
-import assets from '../assets';
+//import assets from '../assets';
 import Button from './Button';
 
 const SectionWrapper = ({ title, description, showBtn, mockupImg, banner, reverse }) => {
